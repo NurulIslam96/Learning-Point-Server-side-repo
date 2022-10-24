@@ -13,7 +13,7 @@
   },
   {
     "id": "04",
-    "name": "C/CPP"
+    "name": "C/C++"
   },
   {
     "id": "05",
@@ -21,10 +21,10 @@
   },
   {
     "id": "06",
-    "name": "Ruby"
+    "name": "SQL"
   },
   {
     "id": "07",
-    "name": "SQL"
+    "name": "Ruby"
   }
 ]
