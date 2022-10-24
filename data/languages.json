@@ -1,6 +1,7 @@
 [
   {
     "id": "01",
+    "name": "JavaScript",
     "title": "JavaScript Tutorial",
     "thumbnail_url": "https://ibb.co/D56YCZw",
     "img_url": "https://ibb.co/tq60Gvk",
@@ -10,6 +11,7 @@
   },
   {
     "id": "02",
+    "name": "Python",
     "title": "Python Tutorial",
     "thumbnail_url": "https://ibb.co/93S7TYc",
     "img_url": "https://ibb.co/CVLB8rq",
@@ -19,6 +21,7 @@
   },
   {
     "id": "03",
+    "name": "Java",
     "title": "Java Tutorial",
     "thumbnail_url": "https://ibb.co/c8pqZQF",
     "img_url": "https://ibb.co/LDykTD8",
@@ -28,6 +31,7 @@
   },
   {
     "id": "04",
+    "name": "C/C++",
     "title": "C/C++ Tutorial",
     "thumbnail_url": "https://ibb.co/h2sqgnd",
     "img_url": "https://ibb.co/5WKgPP7",
@@ -37,6 +41,7 @@
   },
   {
     "id": "05",
+    "name": "PHP",
     "title": "PHP Tutorial",
     "thumbnail_url": "https://ibb.co/vYP1DvL",
     "img_url": "https://ibb.co/7vRNTwM",
@@ -46,6 +51,7 @@
   },
   {
     "id": "06",
+    "name": "SQL",
     "title": "SQL Tutorial",
     "thumbnail_url": "https://ibb.co/w0jFL00",
     "img_url": "https://ibb.co/JnxmkHB",
@@ -55,6 +61,7 @@
   },
   {
     "id": "07",
+    "name": "Ruby",
     "title": "Ruby Tutorial",
     "thumbnail_url": "https://ibb.co/0By8yCY",
     "img_url": "https://ibb.co/xSCvdJw",
