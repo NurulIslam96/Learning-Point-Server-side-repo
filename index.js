@@ -4,21 +4,19 @@ const app = express();
 const port = process.env.PORT || 5000;
 app.use(cors());
 
-const categories = require('./data/categories.json');
-const languages = require('./data/languages.json');
-
+const courses = require('./data/courses.json');
 
 app.get('/', (req, res) => {
     res.send('Server is running');
 });
 
-app.get('/categories', (req, res) => {
-    res.send(categories);
+app.get('/courses', (req, res) => {
+    res.send(courses);
 });
 
-app.get('/category/:id', (req, res) => {
+app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    const selectedCourse = languages.find(language => language.id === id);
+    const selectedCourse = courses.find(course => course.id === id);
     res.send(selectedCourse);
 });
 
